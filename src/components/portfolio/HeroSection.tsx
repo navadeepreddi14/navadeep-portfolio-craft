@@ -38,7 +38,7 @@ export function HeroSection() {
           >
             Future{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-portfolio-primary to-portfolio-secondary">
-              Software Engineer
+              Data Analyst
             </span>
           </motion.h1>
 
