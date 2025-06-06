@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				portfolio: {
+					primary: '#3b82f6',    // Blue for primary elements
+					secondary: '#10b981',  // Green for accents
+					dark: '#1e293b',       // Dark blue/gray for backgrounds
+					light: '#f8fafc',      // Light shade for text on dark backgrounds
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
