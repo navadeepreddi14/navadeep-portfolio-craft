@@ -47,7 +47,7 @@ export function Navigation() {
             className="flex-shrink-0"
           >
             <a href="#home" className="text-xl font-bold text-foreground">
-              Navadeep Reddi
+              <span className="font-playfair text-xl md:text-2xl tracking-wide">Navadeep Reddi</span>
             </a>
           </motion.div>
 

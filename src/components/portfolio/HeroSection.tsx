@@ -26,7 +26,7 @@ export function HeroSection() {
             transition={{ delay: 0.2, duration: 0.6 }}
             className="text-lg md:text-xl text-muted-foreground"
           >
-            Hi, I'm Navadeep Reddi 👋
+            Hi, I'm <span className="font-playfair font-bold text-xl md:text-2xl text-foreground">Navadeep Reddi</span> 👋
           </motion.p>
 
           {/* Main heading */}
